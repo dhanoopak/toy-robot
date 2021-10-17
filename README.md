@@ -11,10 +11,15 @@ Run the command line application placed in ToyRobotTest\ToyRobot\bin\ToyRobot.ex
 
 ## Approach
 Development Language - Microsoft C# .Net 
+
 Design and Architecture - OOPS
+
 IDE used for development is Visual Studio 2019. 
+
 Testing - TDD is followed for development. Please refer 'ToyRobotUnitTests' project to see all unit and integration test cases. 
+
 Microsoft Test(MSTest Test Project)  is used for writing unit tests.
+
 Unit test can be executed by opening the project in Visual studio and run the tests in ToyRobotTests.cs using Visual Studio Test Explorer.
 
 ## Usage
